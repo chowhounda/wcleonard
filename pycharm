@@ -1,0 +1,6 @@
+pycharm快捷键
+    ctrl + e 打开最近访问过的文件
+    shift + shift 万能搜索
+    ctrl + shift + v 打开粘贴板
+    (.*): (.*)$  --->>> 's1': 's2',
+
